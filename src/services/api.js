@@ -1,6 +1,6 @@
 // Servicio API para conectar el Frontend React con el Backend TorneoSUD (Neon PostgreSQL)
 
-const API_BASE_URL = 'http://localhost:4000/api';
+const API_BASE_URL = 'https://torneosud-backend.onrender.com/api';
 
 export const api = {
   // Estado del servidor
